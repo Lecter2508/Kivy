@@ -1,3 +1,4 @@
 # Kivy
 My Kivy stuff
-Hello !
+
+Learning Kivy from scratch...
