@@ -1,4 +1,6 @@
 # Kivy
 My Kivy stuff
 
-Learning Kivy from scratch...
+Learning Kivy...
+
+Source : KIvy crash course, Alexender Taylor
