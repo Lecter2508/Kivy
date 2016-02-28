@@ -14,7 +14,6 @@ class TutorialApp(App):
         print('The widget', instance, 'moved to', value)
 
     def build(self):
-
         
         b = BoxLayout(orientation='vertical')
         t = TextInput(font_size=150,
