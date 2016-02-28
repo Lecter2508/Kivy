@@ -6,7 +6,6 @@ from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.boxlayout import BoxLayout
 
-
 class MainWidget(BoxLayout):
     pass
 
